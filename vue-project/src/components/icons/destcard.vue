@@ -26,4 +26,5 @@
     height: 300px;
     object-fit: cover;
   }
+
   </style>
