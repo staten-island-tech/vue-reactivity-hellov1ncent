@@ -1,4 +1,23 @@
 @import './base.css';
 h1 {
-    color: black
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.addbtn{
+    align-items: center;
+    text-align: center;
+}
+
+.data-v-51c335ce{
+    display:flex;
+    width: 80%;
+    height: 100%;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    margin: 5rem auto;
+}
+
+body{
+    background-color: #ffffff;
 }
